@@ -1,4 +1,3 @@
 # TranVanThanhJv
 
-
-https://trvanthanh.github.io/TranVanThanhJv/thanh/login.html
+https://trvanthanh.github.io/TranVanThanhJv/thanh/giay.html
